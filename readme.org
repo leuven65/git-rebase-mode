@@ -1,0 +1,6 @@
+* git-rebase-mode
+The latest version of "magit/git-rebase.el" is coupled with magit too much, it means that we can use it in standalone.
+
+So the old version which doesn't depend on magit is copied from magit repo, and it can be used in standalone.
+
+As magit has performace issue on windows platform, normally I disabled it, so that the standalone way is important.
