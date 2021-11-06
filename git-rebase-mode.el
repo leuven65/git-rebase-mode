@@ -1,4 +1,4 @@
-;;; git-rebase.el --- Major mode for editing Git rebase files
+;;; git-rebase-mode.el --- Major mode for editing Git rebase files
 
 ;; Copyright (C) 2010-2015  The Magit Project Developers
 ;;
@@ -389,4 +389,4 @@ By default, this is the same except for the \"pick\" command."
 ;; Local Variables:
 ;; indent-tabs-mode: nil
 ;; End:
-;;; git-rebase.el ends here
+;;; git-rebase-mode.el ends here
